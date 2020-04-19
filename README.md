@@ -1,6 +1,28 @@
-# platzi-video-react-native
-Aplicación desarrollada en https://platzi.com/cursos/react-native/
+# React-navigation-app
 
-Para correr está aplicación debes tener todo el entorno de React Native instalado https://facebook.github.io/react-native/docs/getting-started.html
+This is a application developed in react native, redux and react navigation.
 
-Luego solo `npm install` y luego `react-native run-android` o `react-native run-ios` recuerda tener un emulador prendido previamente si quieres correr la aplicación en Android
+## Getting Started
+
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+To run this application you must have the entire React Native environment installed https://facebook.github.io/react-native/docs/getting-started.html
+
+### Installing
+
+to install
+
+```
+npm install
+```
+
+### Installing
+
+to run
+
+```
+react-native run-android  or react-native run-ios
+```
+
+### Tips
+
+remember to have an emulator turned on previously if you want to run the application on Android
